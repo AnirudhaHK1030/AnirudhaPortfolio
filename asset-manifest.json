@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AnirudhaPortfolio/static/css/main.e5322cc0.css",
-    "main.js": "/AnirudhaPortfolio/static/js/main.a7f0eba0.js",
+    "main.js": "/AnirudhaPortfolio/static/js/main.da6ca396.js",
     "static/media/work_experience.png": "/AnirudhaPortfolio/static/media/work_experience.70f6ade00b0dee9d7a12.png",
     "static/media/me.png": "/AnirudhaPortfolio/static/media/me.ba4a6537d737aae0d5de.png",
     "index.html": "/AnirudhaPortfolio/index.html",
     "main.e5322cc0.css.map": "/AnirudhaPortfolio/static/css/main.e5322cc0.css.map",
-    "main.a7f0eba0.js.map": "/AnirudhaPortfolio/static/js/main.a7f0eba0.js.map"
+    "main.da6ca396.js.map": "/AnirudhaPortfolio/static/js/main.da6ca396.js.map"
   },
   "entrypoints": [
     "static/css/main.e5322cc0.css",
-    "static/js/main.a7f0eba0.js"
+    "static/js/main.da6ca396.js"
   ]
 }
